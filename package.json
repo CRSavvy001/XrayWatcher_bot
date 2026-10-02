@@ -1,0 +1,9 @@
+{
+  "name": "xray-watcher-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node bot.mjs" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "grammy": "^1.30.0" }
+}
